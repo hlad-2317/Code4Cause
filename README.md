@@ -1,4 +1,4 @@
-# 🚨 X-Mail - Phishing Detector
+#  X-Mail - Phishing Detector
 
 ## What It Does
 
