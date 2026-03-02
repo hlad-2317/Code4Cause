@@ -54,9 +54,3 @@ The system analyzes:
 You'll see a clear prediction:
 - 🚨 **Phishing** - This email is dangerous
 - ✅ **Safe** - This email looks legitimate
-
-
-## 📞 Contact
-
-### Created by
-Biprajeet Sen & Amritangshu Dey
