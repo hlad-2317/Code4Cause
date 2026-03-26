@@ -1,6 +1,6 @@
 #  X-Mail - Phishing Detector
 
-## What It Does
+## What It Does !
 
 X-Mail is an AI tool that checks if emails are **phishing scams** or **safe**. It uses machine learning to analyze email content and links.
 
